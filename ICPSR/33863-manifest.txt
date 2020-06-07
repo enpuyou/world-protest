@@ -1,0 +1,55 @@
+File Manifest for ICPSR 33863
+
+Smith, Jackie, and Dawn Wiest. Transnational Social Movement Organization
+Dataset, 1953-2003. ICPSR33863-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2012-07-16.
+http://doi.org/10.3886/ICPSR33863.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33863-descriptioncitation.pdf       -       -         -       2014-07-04  -
+
+    33863-related_literature.txt        -       -         -       daily       -
+
+    33863-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Transnational Social Movement Organization Dataset, 1953-2003
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33863-0001-Codebook.pdf             -       -         -       2012-07-26  6e7a37e40c865d2ced7393a1aff175f5
+
+    33863-0001-Data.dta                 -       10,092    301     2012-07-26  a6cefee5098c76c08312bf3739bacc49
+
+    33863-0001-Data.sav                 -       10,092    301     2012-07-26  ef4a85be88e6dc1fcd2ceb5329436492
+
+    33863-0001-Data.stc                 -       10,092    301     2012-07-26  c88302f056eaf31432cac47d52446106
+
+    33863-0001-Data.tsv                 -       10,092    301     2012-07-26  a7d8557a76c79822badff487e8b214dc
+
+    33863-0001-Data.txt                 1438    10,092    301     2012-07-26  61b48095b72ad99a1b3d7f591080780a
+
+    33863-0001-Setup.dct                -       -         -       2012-07-26  6f0892dff5dc65a78c6623baafb02801
+
+    33863-0001-Setup.do                 -       -         -       2012-07-26  81a392da145ac0018e683733caba9830
+
+    33863-0001-Setup.sas                -       -         -       2012-07-26  d9eddcd749de1ed11f48d52bd3e714eb
+
+    33863-0001-Setup.sps                -       -         -       2012-07-26  b5c8087d2ba7289e83ad8ba7797b406e
+
+    33863-0001-Supplemental_syntax.do   -       -         -       2012-07-26  a0771e907a994034071a7588593278bf
+
+    33863-0001-Supplemental_syntax.sas  -       -         -       2012-07-26  4e530c37a7d72dac6743d60be90dcf95
+
+
+Version History
+
+2012-07-26 Additional PI has been added.
