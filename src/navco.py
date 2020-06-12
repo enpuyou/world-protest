@@ -37,4 +37,34 @@ facet_byear_hist = alt.Chart(navco_df).mark_bar().encode(
     height=80
 )
 
-st.write(facet_byear_hist)
+# st.write(facet_byear_hist)
+
+# source = data.wheat()
+#
+# base = alt.Chart(source).encode(x='year:O')
+#
+# bar = base.mark_bar().encode(y='wheat:Q')
+#
+# line =  base.mark_line(color='red').encode(
+#     y='wages:Q'
+# )
+#
+# (bar + line).properties(width=600)
+
+
+base = alt.Chart(navco_df).encode(alt.Y("LOCATION"))
+
+byear_dot = base.mark_point(color="blue").encode(
+        alt.X("BYEAR", scale=alt.Scale(domain=(1900, 2020)))
+        )
+
+eyear_dot = base.mark_point(color="red").encode(
+        alt.X("EYEAR", scale=alt.Scale(domain=(1900, 2020))))
+
+combine = (byear_dot + eyear_dot).properties(
+    title='Begin Year and End Year',
+    width=1000,
+    height=1000
+)
+
+st.write(combine)
