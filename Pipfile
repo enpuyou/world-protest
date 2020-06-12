@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 gdelt = "*"
 streamlit = "*"
+pandas = "*"
+altair = "*"
 
 [requires]
 python_version = "3.8"
