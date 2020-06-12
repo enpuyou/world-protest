@@ -1,0 +1,623 @@
+﻿NAVCOID,CAMPAIGN,LOCATION,BYEAR,EYEAR,TARGET,SUCCESS,LIMITED,FAILURE,ONGOING,VIOL,NONVIOL,FSELFDET,REGCHANGE,SECESSION,OTHER
+1027,Third Anglo-Afghan War,Afghanistan,1919,1919,British occupation,1,0,0,0,1,0,1,0,0,0
+1041,Anti-Reformist movement,Afghanistan,1924,1929,Amanullah Khan regime,0,0,1,0,1,0,0,1,0,0
+4,Afghans,Afghanistan,1978,1979,Afghan government,1,0,0,0,1,0,0,1,0,0
+462,Anti-Soviet Movement (3 Hut Uprising),Afghanistan,1980,1980,Gov't of USSR,0,0,1,0,0,1,1,0,0,0
+3,Afghan resistance,Afghanistan,1980,1989,Soviet occupation,1,0,0,0,1,0,1,0,0,0
+218,Taliban/anti-government forces,Afghanistan,1992,1996,Afghan regime,1,0,0,0,1,0,0,1,0,0
+217,Taliban,Afghanistan,2001,2019,Afghan government,0,0,1,1,1,0,0,1,0,0
+436,ISIS-Afghanistan,Afghanistan,2015,2019,Gov't of Afghanistan/Go'vt of US,0,0,1,1,1,0,0,1,0,0
+5,Albanian anti-communist,Albania,1990,1991,Communist regime,1,0,0,0,0,1,0,1,0,0
+563,Albanian anti-corruption,Albania,2019,2019,Rama government,0,0,1,1,0,1,0,1,0,0
+6,Algerian Revolt/National Liberation Front,Algeria,1954,1962,French occupation,1,0,0,0,1,0,1,0,0,0
+82,former rebel leaders,Algeria,1962,1963,Ben Bella regime,0,0,1,0,1,0,0,1,0,0
+106,Islamic Salvation Front,Algeria,1992,2002,Algerian government,0,0,1,0,1,0,0,1,0,0
+317,Anti-Abdelaziz Bouteflika Campaign,Algeria,2010,2012,Abdelaziz Bouteflika's Government,0,1,0,0,0,1,0,1,0,0
+564,Smile Revolution,Algeria,2019,2019,Abdelaziz Bouteflika's Government,1,0,0,0,0,1,0,1,0,0
+176,Popular Movement for the Liberation of Angola,Angola,1961,1974,Portuguese occupation,1,0,0,0,1,0,1,0,0,0
+237,UNITA,Angola,1975,2002,Angolan government,0,1,0,0,1,0,0,1,0,0
+390,Cabinda Conflict,Angola,1991,2019,Govt of Angola,0,0,1,1,1,0,0,0,1,0
+362,Revolucion Libertadora,Argentina,1955,1955,Argentina,1,0,0,0,1,0,0,1,0,0
+72,ERP/Monteneros,Argentina,1973,1977,Argentina regime,0,0,1,0,1,0,0,1,0,0
+33,pro-democracy movement,Argentina,1977,1983,military junta,1,0,0,0,0,1,0,1,0,0
+32,Argentina anti-coup,Argentina,1987,1987,attempted coup,1,0,0,0,0,1,0,0,0,1
+318,Armenian Opposition Protest / March 1st Movement,Armenia,2007,2009,Government / President,0,1,0,0,0,1,0,1,0,0
+558,2018 Anti-government protests,Armenia,2018,2018,Gov't of Armenia,1,0,0,0,0,1,0,1,0,0
+254,Pro-Independence Campaign,Aruba,1977,1977,Government of the Netherlands and the Netherlands Antilles Council,0,0,1,0,0,1,0,0,1,0
+1055,socialists,Austria,1934,1934,Dolfuss government,0,0,1,0,1,0,0,1,0,0
+35,Armenians in Nagorno-Karabakh,Azerbaijan,1991,1994,Azeri occupation,0,1,0,0,1,0,0,0,1,0
+255,Anti-King Hamad Campaign,Bahrain,2011,2019,Monarchy of King Hamad,0,0,1,1,0,1,0,1,0,0
+198,Shanti Bahini,Bangladesh,1976,1997,Autonomy from Bangladesh regime,0,0,1,0,1,0,0,0,1,0
+37,anti-Ershad campaign,Bangladesh,1987,1990,Military rule,1,0,0,0,0,1,0,1,0,0
+478,1994-1996 Awami League Campaign,Bangladesh,1994,1996,"The Government of Bangladesh, BNP",1,0,0,0,0,1,0,1,0,0
+288,Oust The Government Campaign,Bangladesh,2004,2004,BNP-led government,0,0,1,0,0,1,0,1,0,0
+288,Awami League Protests,Bangladesh,2006,2007,Interim Government,1,0,0,0,0,1,0,1,0,0
+38,Belarus anti-communist,Belarus,1988,1991,Communist regime,1,0,0,0,0,1,0,1,0,0
+39,Denim revolution,Belarus,2006,2006,Belarus government,0,0,1,0,0,1,0,1,0,0
+451,Benin anti-government protests,Benin,1963,1963,Benin govt,1,0,0,0,0,1,0,1,0,0
+41,Benin anti-communist,Benin,1989,1990,Communist regime,1,0,0,0,0,1,0,1,0,0
+1005,Acre rebellion,Bolivia,1902,1903,secession from Bolivia,0,0,1,0,1,0,0,0,1,0
+392,Popular Revolutionary Movement,Bolivia,1946,1946,Villaroel regime,1,0,0,0,1,0,0,1,0,0
+44,leftists,Bolivia,1952,1952,military junta,1,0,0,0,1,0,0,1,0,0
+453,Bolivian anti-government protests,Bolivia,1964,1964,incumbent govt,0,0,1,0,0,1,0,1,0,0
+43,Bolivian anti-juntas,Bolivia,1977,1982,Mil juntas,1,0,0,0,0,1,0,1,0,0
+289,Anti-Siles Zuazo,Bolivia,1985,1985,President Hernan Silez-Zuazo,0,1,0,0,0,1,0,1,0,0
+257,Anti-Sanchez de Lozada Campaign,Bolivia,2003,2003,President Sanchez de Lozada,1,0,0,0,0,1,0,1,0,0
+496,Anti-Mesa Campaign Phase 1,Bolivia,2004,2004,President Carlos Mesa,0,0,1,0,0,1,0,1,0,0
+498,Anti-Mesa Campaign Phase 2,Bolivia,2005,2005,President Carlos Mesa,1,0,0,0,0,1,0,1,0,0
+565,anti-Morales protests,Bolivia,2019,2019,Morales govt,1,0,0,0,0,1,0,1,0,0
+566,anti-Áñez protests,Bolivia,2019,2019,Áñez govt,0,0,1,1,0,1,0,1,0,0
+196,Serb militias,Bosnia-Herzegovina,1992,1995,Bosnian government,0,0,1,0,1,0,0,0,1,0
+369,Republic of Western Bosnia (secession),Bosnia-Herzegovina,1993,1995,,0,0,1,0,1,0,0,0,1,0
+521,UDAR,Bosnia-Herzegovina,2014,2014,incumbent government,0,0,1,0,0,1,0,1,0,0
+1052,Paolistas,Brazil,1932,1932,Brazilian regime,0,0,1,0,1,0,0,1,0,0
+68,diretas ja,Brazil,1984,1985,Military rule,1,0,0,0,0,1,0,1,0,0
+475,Anti-Collor Protests,Brazil,1992,1992,Gov't of Brazil (Collor),1,0,0,0,0,1,0,1,0,0
+529,Anti-Rousseff,Brazil,2015,2016,Gov't of Brazil,1,0,0,0,0,1,0,1,0,0
+383,Brunei Revolt,Brunei,1962,1962,Brunei government,0,0,1,0,1,0,0,1,0,0
+1038,Agrarian League movement,Bulgaria,1923,1923,Military regime,0,0,1,0,1,0,0,1,0,0
+47,Bulgarian anti-communist,Bulgaria,1989,1990,Communist regime,0,1,0,0,0,1,0,1,0,0
+507,Anti-Socialist Demonstrations,Bulgaria,2009,2009,Socialist Government,0,0,1,0,0,1,0,1,0,0
+290,Dance with me Campaign,Bulgaria,2013,2014,Gov't of PM Oresharski,1,0,0,0,0,1,0,1,0,0
+522,Anti-Compaore Campaign,Burkina Faso,2014,2014,President Compaore,1,0,0,0,0,1,0,1,0,0
+346,Burmese independence movement,Burma,1916,1938,British colonial rule,0,0,1,0,0,1,1,0,0,0
+1049,Saya San's rebellion,Burma,1930,1932,British occupation,0,0,1,0,1,0,1,0,0,0
+439,Kachin rebels,Burma,1948,1994,Burmese government,0,0,1,0,1,0,0,0,1,0
+408,Karens,Burma,1948,1994,Burmese government,0,0,1,0,1,0,0,0,1,0
+408,Pro-Democracy movement in Burma,Burma,1988,2019,Burmese government,0,0,1,1,1,0,0,1,0,0
+81,Hutu rebellion,Burundi,1972,1973,Tutsi hegemony in government,0,0,1,0,1,0,0,1,0,0
+225,Burundian Civil War,Burundi,1991,2008,Gov't of Burundi,0,0,1,0,1,0,0,1,0,0
+236,Tutsi supremacists,Burundi,1991,1992,Buyoya regime,1,0,0,0,1,0,0,1,0,0
+504,Palipehutu-FNL,Burundi,2008,2008,Tutsi-dominated government in Burundi,0,0,1,0,1,0,0,1,0,0
+530,Anti-Nkurunziza Campaign,Burundi,2015,2015,Nkurunziza regime,0,0,1,0,0,1,0,1,0,0
+371,Cambodian Independence Movement,Cambodia,1946,1954,French rule,1,0,0,0,1,0,1,0,0,0
+117,Khmer Rouge,Cambodia,1970,1975,Cambodian government,1,0,0,0,1,0,0,1,0,0
+22,Kampuchean United Front for National Salvation,Cambodia,1978,1979,Khmer Rouge regime,1,0,0,0,1,0,0,1,0,0
+193,Second Khmer Rouge,Cambodia,1979,1997,Cambodian government,0,0,1,0,1,0,0,1,0,0
+483,Anti-Hun Sen,Cambodia,1998,1998,PM Hun Sen,0,0,1,0,0,1,0,1,0,0
+519,2013 Cambodian election protests,Cambodia,2013,2014,government of Cambodia,0,0,1,0,0,1,0,1,0,0
+51,anti-colonialist movement,Cameroon,1955,1960,French occupation,1,0,0,0,1,0,1,0,0,0
+413,Cameroon anti-Ahidjo government movement,Cameroon,1960,1971,Franco-Cameroonian administration,0,0,1,0,1,0,0,1,0,0
+259,NCCOP pro-democracy movement,Cameroon,1991,1991,Biya Regime,1,0,0,0,0,1,0,1,0,0
+404,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad (Boko Haram Affliliate),Cameroon,2013,2018,Gov't of Cameroon,0,0,1,1,1,0,0,1,0,0
+358,Ambazonia Independence,Cameroon,2017,2018,Cameroon govt,0,0,1,0,0,1,0,0,1,0
+358,Anglophone Crisis/Ambazonia Independence,Cameroon,2017,2019,Cameroon govt,0,0,1,1,1,0,0,0,1,0
+325,CCCN and Union pro-democracy movement,Central African Republic,1990,1993,Kolingba Presidency,1,0,0,0,0,1,0,1,0,0
+479,multiple factions,Central African Republic,1994,1997,CAR regime,1,0,0,0,1,0,0,1,0,0
+360,Seleka rebellion,Central African Republic,2003,2013,President Francois Bozize,1,0,0,0,1,0,0,1,0,0
+361,anti-Balaka,Central African Republic,2013,2014,Central African Republic govt,1,0,0,0,1,0,0,1,0,0
+85,Frolinat,Chad,1966,1990,Chadian government,1,0,0,0,1,0,0,1,0,0
+54,rebels,Chad,1994,1998,Chadian regime,0,0,1,0,1,0,0,1,0,0
+363,MDJT,Chad,1998,2003,Govt of Chad,0,0,1,0,1,0,0,1,0,0
+499,Chadian Civll War I,Chad,2005,2006,Gov't of Chad,0,0,1,0,1,0,0,1,0,0
+433,Anti-Deby Rebellion,Chad,2005,2009,Govt of Chad,0,0,1,0,1,0,0,1,0,0
+500,Chadian Civll War II,Chad,2006,2010,Gov't of Chad,0,0,1,0,1,0,0,1,0,0
+1050,anti-Ibanez campaign,Chile,1931,1931,Ibanez regime,1,0,0,0,0,1,0,1,0,0
+170,Pinochet-led rebels,Chile,1973,1973,Allende regime,1,0,0,0,1,0,0,1,0,0
+26,anti-Pinochet campaign,Chile,1983,1989,Augusto Pinochet,1,0,0,0,0,1,0,1,0,0
+567,anti-Pinera,Chile,2019,2019,Pinera government,0,0,1,1,0,1,0,1,0,0
+1016,Republicans,China,1911,1913,Imperial regime; military dictatorship,0,0,1,0,1,0,0,1,0,0
+1019,Yunnan rebellion,China,1916,1918,Chinese occupation,0,1,0,0,1,0,0,0,1,0
+1028,May the Fourth Movement,China,1919,1919,Japanese occupation,0,1,0,0,0,1,1,0,0,0
+425,Chinese communist movement,China,1927,1949,Kuomintang regime,1,0,0,0,1,0,0,1,0,0
+1051,Manchurian guerillas,China,1931,1941,Japanese occupation,1,0,0,0,1,0,1,0,0,0
+1060,Chinese rebels,China,1937,1945,Japanese occupation,0,0,1,0,1,0,1,0,0,0
+216,Taiwanese Revolt,China,1947,1947,Chinese occupation,0,0,1,0,1,0,0,0,1,0
+92,Hundred Flowers Movement,China,1956,1957,Communist regime,0,0,1,0,0,1,0,1,0,0
+228,Tibetan resistance,China,1956,1959,Chinese occupation,0,0,1,0,1,0,1,0,0,0
+63,Cultural Revolution Red Guards,China,1967,1968,anti-Maoists,0,0,1,0,1,0,0,0,0,1
+66,Democracy Movement,China,1976,1979,Communist regime,0,0,1,0,0,1,0,1,0,0
+226,Tiananmen Square,China,1989,1989,Communist regime,0,0,1,0,0,1,0,1,0,0
+513,Kirti Monastery Protests,China,2012,2012,Government of China,0,0,1,0,0,1,0,0,1,0
+523,Hong Kong pro-democracy (Umbrella Movement),China,2014,2019,Government of Hong Kong (Chief Executive Leung),0,0,1,1,0,1,0,1,0,1
+129,La Violencia/Liberals of 1949,Colombia,1948,1958,Conservative govt,0,0,1,0,1,0,0,1,0,0
+443,anti-Rojas,Colombia,1957,1957,Rojas government,1,0,0,0,0,1,0,1,0,0
+182,"Revolutionary Armed Forces of Colombia, National Liberation Army, M-19",Colombia,1964,2016,Colombia govt and US influence,0,0,1,0,1,0,0,1,0,0
+367,Anjouan Separatist Movement,Comoros,1997,2000,Comoros govt,0,1,0,0,1,0,0,0,1,0
+67,Denis Sassou Nguesso campaign,Congo-Brazzaville (ROC),1997,1999,Lissouba regime,1,0,0,0,1,0,0,1,0,0
+397,"Anti-Sassou-Nguessou Campaign (Cocoyes, Ninjas, Ntsiloulous)",Congo-Brazzaville (ROC),1997,2003,Sassou-Nguessou Regime,0,0,1,0,1,0,0,1,0,0
+146,National Union Party,Costa Rica,1948,1948,Calderon regime,1,0,0,0,1,0,0,1,0,0
+391,Serbian Republic of Krajina (secession campaign),Croatia,1991,1995,Gov't of Croatia,0,0,1,0,1,0,0,0,1,0
+485,Croatian pro-democracy,Croatia,1999,2000,semi-presidential system,1,0,0,0,0,1,0,1,0,0
+62,Cuban Revolution,Cuba,1958,1959,Batista regime,1,0,0,0,1,0,0,1,0,0
+77,Ethniki Organosis Kyprios Agoniston,Cyprus,1954,1959,British occupation,1,0,0,0,1,0,1,0,0,0
+64,Czech uprising,Czechoslovakia,1968,1968,Soviet occupation,0,0,1,0,0,1,1,0,0,0
+240,Velvet Revolution,Czechoslovakia,1989,1989,Communist regime,1,0,0,0,0,1,0,1,0,0
+444,Congolese Independence Movement,Democratic Republic of Congo,1959,1960,Belgian rule,0,1,0,0,0,1,1,0,0,0
+409,CNL,Democratic Republic of Congo,1964,1965,Mobutu regime,0,0,1,0,1,0,0,1,0,0
+112,Kabila-ADFL,Democratic Republic of Congo,1996,1997,Mobutu regime,1,0,0,0,1,0,0,1,0,0
+410,Second Congo War,Democratic Republic of Congo,1998,2002,Kabila Regime,0,0,1,0,1,0,0,1,0,0
+326,CNDP,Democratic Republic of Congo,2006,2008,Congo government,0,0,1,0,1,0,0,1,0,0
+294,M23,Democratic Republic of Congo,2012,2013,Congo government,0,0,1,0,1,0,0,1,0,0
+547,anti-Kabila campaign,Democratic Republic of Congo,2017,2018,Kabila regime,1,0,0,0,0,1,0,1,0,0
+1062,Danish resistance,Denmark,1940,1943,Nazi occupation,0,1,0,0,0,1,1,0,0,0
+2,Afar insurgency,Djibouti,1991,1994,Djibouti regime,0,0,1,0,1,0,0,1,0,0
+260,Djibouti Arab Spring,Djibouti,2011,2011,Gov't of Djibouti (President Guelleh),0,0,1,0,0,1,0,1,0,0
+1020,Dominican insurgency,Dominican Republic,1916,1924,U.S. occupation,0,0,1,0,1,0,1,0,0,0
+448,anti-Balaguer strikes,Dominican Republic,1961,1962,Balaguer regime,1,0,0,0,0,1,0,1,0,0
+455,leftists,Dominican Republic,1965,1965,Loyalist regime,0,0,1,0,1,0,0,1,0,0
+74,East German uprising,East Germany,1953,1953,Communist regime,0,0,1,0,0,1,0,1,0,0
+467,pro-dem movement,East Germany,1989,1989,Communist regime,0,1,0,0,0,1,0,1,0,0
+230,Freitilin,East Timor,1975,1979,Indonesian occupation,0,0,1,0,1,0,1,0,0,0
+230,Timorese resistance,East Timor,1989,1999,Indonesian occupation,1,0,0,0,0,1,1,0,0,0
+501,Anti-Alkatiri,East Timor,2006,2006,PM Mari Alkatiri,1,0,0,0,0,1,0,1,0,0
+456,1965 Anti-Junta Campaign,Ecuador,1965,1966,Gov't of Ecuador (junta),1,0,0,0,0,1,0,1,0,0
+481,1997 Anti-Bucaram Campaign,Ecuador,1997,1997,Gov't of Ecuador (President Bucaram),1,0,0,0,0,1,0,1,0,0
+489,2000 Anti-Mahuad Protests,Ecuador,2000,2000,Government of Ecuador,1,0,0,0,0,1,0,1,0,0
+497,2004 Anti-Gutierrez Protests,Ecuador,2004,2004,Government of Ecuador,1,0,0,0,0,1,0,1,0,0
+261,Rebellion of the Forajidos,Ecuador,2005,2005,Ecuadorian President Colonel Lucio Gutierrez,1,0,0,0,0,1,0,1,0,0
+531,Out Correa Campaign,Ecuador,2015,2017,Correa government,0,1,0,0,0,1,0,1,0,0
+330,Egyptian Revolution for Independence,Egypt,1918,1922,British Colonial Government,1,0,0,0,0,1,1,0,0,0
+384,Egyptian Insurgency-Jamaat Al Islamiyya,Egypt,1992,1999,Gov't of Egpyt,0,0,1,0,1,0,0,1,0,0
+118,Kefaya,Egypt,2000,2005,Mubarak regime,0,1,0,0,0,1,0,1,0,0
+331,Anti-Mubarak movement,Egypt,2007,2011,Government,1,0,0,0,0,1,0,1,0,0
+262,Anti-Morsi Protests,Egypt,2013,2013,President Morsi,1,0,0,0,0,1,0,1,0,0
+295,Pro-Morsi Protests,Egypt,2013,2014,President Morsi,0,0,1,0,0,1,0,1,0,0
+319,Sinai Insurgency,Egypt,2013,2019,Sisi Government,0,0,1,1,1,0,0,1,0,0
+568,anti-Sisi protests,Egypt,2019,2019,Sisi government,0,0,1,0,0,1,0,1,0,0
+1053,leftist rebellion,El Salvador,1932,1932,authoritarian Martinez regime,0,0,1,0,1,0,0,1,0,0
+1076,anti Aguirre y Salinas,El Salvador,1944,1945,Aguirre y Salinas govt,0,0,1,0,0,1,0,1,0,0
+1070,Strike of Fallen Arms,El Salvador,1944,1944,Martinez dictatorship,1,0,0,0,0,1,0,1,0,0
+445,Anti-Lemus campaign,El Salvador,1960,1960,Lemus govt,1,0,0,0,0,1,0,1,0,0
+191,El Salvador anti-junta,El Salvador,1977,1980,Mil/civ junta,0,0,1,0,0,1,0,1,0,0
+191,Farabundo Marti National Liberation Front (FMLN),El Salvador,1979,1991,El Salvador government,0,1,0,0,1,0,0,1,0,0
+199,Shifta insurgency,Eritrea,1945,1952,UK occupation,0,0,1,0,1,0,1,0,0,0
+376,"Metsavennad (Forest Brothers, Estonian Anti-Occupation Campaign)",Estonia,1945,1953,Soviet occupation,0,0,1,0,1,0,1,0,0,0
+202,Singing Revolution,Estonia,1987,1991,Communist regime,1,0,0,0,0,1,0,1,0,0
+382,Oromiya Self Determination,Ethiopia,1973,2018,Gov't of Ethiopia,0,1,0,0,1,0,1,0,0,0
+460,Eritrean-led rebels,Ethiopia,1974,1991,Ethiopian government,1,0,0,0,1,0,1,0,0,0
+207,Somali rebels (Ogaden),Ethiopia,1976,1980,Ethiopian occupation of Ogaden,0,0,1,0,1,0,1,0,0,0
+229,Tigrean Liberation Front,Ethiopia,1982,1991,Ethiopian government,1,0,0,0,1,0,0,0,1,0
+464,Ogaden Self Determination,Ethiopia,1984,2018,Gov't of Ethiopia,0,0,1,1,1,0,1,0,0,0
+263,Indo-Fijian Anti-Coup Campaign,Fiji,1987,1987,Coup Leader Sitiveni Rabuka,0,0,1,0,0,1,0,1,0,0
+426,Anti-Coalition Government Campaign,Fiji,1987,1987,Timoci Bravadra,1,0,0,0,1,0,0,1,0,0
+264,Anti-Chaudhry Campaign,Fiji,2000,2000,Government of Fiji,1,0,0,0,0,1,0,1,0,0
+1025,communist rebels,Finland,1918,1918,Finnish government,0,0,1,0,1,0,0,1,0,0
+1063,French resistance,France,1940,1944,German occupation,0,0,0,0,1,0,1,0,0,0
+178,French Nationalists/SAO,France,1960,1962,French withdrawal from Algeria,0,0,1,0,1,0,0,0,0,1
+559,Yellow Vests,France,2018,2019,Macron government,0,0,1,1,0,1,0,1,0,0
+392,Southern Ossetian Separatist Campaign,Georgia,1991,1992,Gov't of Georgia,0,0,1,0,1,0,0,0,1,0
+329,Georgia-Abkhazia War,Georgia,1992,1994,Georgian occupation,0,0,1,0,1,0,0,0,1,0
+183,Rose Revolution,Georgia,2003,2003,Shevardnadze regime,1,0,0,0,0,1,0,1,0,0
+332,2007 Anti-Saakashvili Campaign,Georgia,2007,2007,Government of Georgia,0,1,0,0,0,1,0,1,0,0
+434,Third South Ossetian Campaign,Georgia,2008,2008,Georgian government,1,0,0,0,1,0,0,0,1,0
+332,2009 Anti-Saakashvili Campaign,Georgia,2009,2009,Government of Georgia,0,0,1,0,0,1,0,1,0,0
+569,2019 Georgian Protests,Georgia,2019,2019,Ghakaria govt,0,1,0,0,0,1,0,1,0,0
+1039,Ruhrkampf resistance,Germany,1923,1924,French occupation,1,0,0,0,0,1,1,0,0,0
+58,Convention People's Party movement,Ghana,1955,1957,British rule,1,0,0,0,0,1,1,0,0,0
+490,anti-Rawlings campaign,Ghana,2000,2000,Rawlings government,1,0,0,0,0,1,0,1,0,0
+1068,Greek resistance,Greece,1943,1944,Nazi occupation,0,0,1,0,1,0,1,0,0,0
+401,Greek Civil War,Greece,1946,1949,British and US occupation,0,0,1,0,1,0,1,0,0,0
+457,Greece premier protest,Greece,1965,1966,Government led by Premier George Athanassiades-Novas,0,0,1,0,0,1,0,1,0,0
+89,Greek anti-military,Greece,1973,1974,Military rule,1,0,0,0,0,1,0,1,0,0
+1075,anti-Estrada Cabrera,Guatemala,1919,1920,Estrada Cabrera govt,1,0,0,0,0,1,0,1,0,0
+1071,October Revolutionaries,Guatemala,1944,1944,Ubico dictatorship,1,0,0,0,0,1,0,1,0,0
+1073,Conservative movement,Guatemala,1954,1954,Arbenz leftist regime,1,0,0,0,1,0,0,1,0,0
+450,Anti-Ydigoras,Guatemala,1962,1962,Government,0,0,1,0,0,1,0,1,0,0
+133,Marxist rebels (URNG),Guatemala,1966,1996,government of Guatemala,0,1,0,0,1,0,0,1,0,0
+477,Anti-Serrano,Guatemala,1993,1993,Government,1,0,0,0,0,1,0,1,0,0
+370,Guatemala Uprising,Guatemala,2015,2015,Perez government,1,0,0,0,0,1,0,1,0,0
+548,Anti-Morales Protests,Guatemala,2017,2019,Gov't of Guatemala (Morales),0,0,1,1,0,1,0,1,0,0
+348,RDFG,Guinea,2000,2001,Gov't of Guinea,0,0,1,0,1,0,0,1,0,0
+327,pro-democracy movement,Guinea,2007,2010,Conte regime,0,0,1,0,0,1,0,1,0,0
+160,PAIGC,Guinea-Bissau,1963,1974,Portuguese occupation,1,0,0,0,1,0,1,0,0,0
+400,"Military Junta for the Consolidation of Democracy, Peace and Justice",Guinea-Bissau,1998,1999,Gov't of Guinea-Bisseau,0,0,1,0,1,0,0,1,0,0
+9,anti-Burnham/Hoyte campaign,Guyana,1990,1992,Burnham/Hoyte autocratic regime,1,0,0,0,0,1,0,1,0,0
+1026,Caco Revolt,Haiti,1918,1920,U.S. occupation,0,0,1,0,1,0,1,0,0,0
+437,pro-democracy movement,Haiti,1946,1946,Lescot government,1,0,0,0,0,1,0,0,0,0
+441,anti-Maglore movement,Haiti,1956,1956,Maglore government,1,0,0,0,0,1,0,1,0,0
+15,anti-Duvalier campaign,Haiti,1985,1986,Jean Claude Duvalier,1,0,0,0,0,1,0,1,0,0
+296,Anti-National Governing Council (CNG),Haiti,1987,1987,National Governing Council,0,0,1,0,0,1,0,1,0,0
+297,Anti-Aristide Campaign 2004,Haiti,2003,2004,Haitian President Jean Bertrand Aristide,1,0,0,0,0,1,0,1,0,0
+338,Pro-Aristide Campaign,Haiti,2005,2010,Haitian government,0,0,1,0,0,1,0,1,0,0
+505,Anti-MINUSTAH Campaign,Haiti,2008,2008,UN Peacekeepers (MINUSTAH),0,0,1,0,0,1,1,0,0,0
+524,Anti-Martelly campaign,Haiti,2014,2016,Michel Matelly govt,1,0,0,0,0,1,0,1,0,0
+560,Anti-Jovenel Moise Protests,Haiti,2018,2019,Moise government,0,0,1,1,0,1,0,1,0,0
+1042,Conservative movement,Honduras,1924,1924,Carias regime,0,0,1,0,1,0,0,1,0,0
+265,Honduran pro-democracy movement,Honduras,1944,1944,Carias regime,0,0,1,0,0,1,0,1,0,0
+266,Frente Nacionalæde Resistencia Popular (FNRP),Honduras,2009,2009,"Coup government, led by Roberto Micheletti",0,0,1,0,0,1,0,1,0,0
+532,Honduran indignados,Honduras,2015,2015,Hernandez government,0,0,1,0,0,1,0,1,0,0
+549,Anti-Hernandez,Honduras,2017,2019,Gov't of Honduras (Hernandez),0,0,1,1,0,1,0,1,0,0
+570,Hernández Must Go campaign,Honduras,2019,2019,Hernández govt,0,0,1,0,0,1,0,1,0,0
+1029,anti-communist movement (Whites),Hungary,1919,1920,communist regime,1,0,0,0,1,0,0,1,0,0
+93,Hungarian anti-communist,Hungary,1956,1956,communist regime,0,0,1,0,0,1,0,1,0,0
+94,Hungarian anti-Soviet,Hungary,1956,1956,Soviet occupation,0,0,1,0,1,0,1,0,0,0
+95,pro-dem movement,Hungary,1989,1989,Communist regime,1,0,0,0,0,1,0,1,0,0
+550,Anti-Orban,Hungary,2017,2019,Prime Minister Viktor Orban,0,0,1,1,0,1,0,1,0,0
+298,Cutlery Revolution (Kitchenware/Kitchen Implement Revolution),Iceland,2008,2009,PM Geir Haarde government,1,0,0,0,0,1,0,1,0,0
+541,Panama Papers Anti-Government Protest,Iceland,2016,2016,"Icelandic Government, PM Gunnlaugsson",0,1,0,0,0,1,0,1,0,0
+1030,Indian independence movement,India,1919,1947,British rule,0,1,0,0,0,1,1,0,0,0
+1036,Moplah Rebellion,India,1921,1922,local Hindu leaders,0,0,1,0,1,0,0,1,0,0
+368,Punnapra-Vayalar Uprising,India,1946,1946,"The Princely State of Travencore, British India",0,0,1,0,1,0,0,1,0,0
+96,Hyderabad activists,India,1948,1948,Indian annexation,0,0,1,0,1,0,0,0,1,0
+355,Telangana People's Front,India,1948,1952,Indian government,0,0,1,0,1,0,0,1,0,0
+144,Naga Rebellion,India,1956,2019,Indian occupation,0,0,1,0,1,0,0,0,1,0
+135,Mizo Revolt,India,1966,1986,Indian occupation,0,1,0,0,1,0,0,0,1,0
+347,Naxalite insurgency,India,1967,1971,Indian government,0,0,1,1,1,0,0,1,0,0
+148,Naxalite rebellion,India,1970,1971,Indian regime,0,0,1,0,1,0,0,1,0,0
+267,Anti-Indira Campaign (Phase 1),India,1975,1975,Government of India,0,0,1,0,0,1,0,1,0,0
+267,Anti-Indira Campaign (Phase 3),India,1977,1977,Prime Minister Indira Gandhi,1,0,0,0,0,1,0,1,0,0
+379,Manipur,India,1979,2019,Gov't of India,0,0,1,1,1,0,0,0,1,0
+201,Sikh insurgency,India,1984,1994,separatism,0,0,1,0,1,0,0,0,1,0
+351,Assam independence,India,1985,2019,Gov't of India,0,0,1,1,1,0,0,0,1,0
+465,Gurkha Independence Campaign,India,1986,1986,Government of India,0,0,1,0,0,1,0,0,1,0
+466,1986-7 Khalistan Campaign,India,1986,1987,Government of India,0,0,1,0,0,1,0,0,1,0
+352,Bodoland Independence Campaign (secesesion),India,1986,2019,Gov't of India,0,0,1,1,1,0,0,0,1,0
+374,Tripura,India,1989,2019,Indian government,0,0,1,1,1,0,0,0,1,0
+470,1990 Kashmir Plebiscite Protests,India,1990,1990,Government of India,0,0,1,0,0,1,0,0,1,0
+115,Kashmiri Muslim separatists,India,1990,2005,Indian occupation,0,0,1,0,1,0,0,0,1,0
+353,Western Southeast Asia Front,India,2015,2019,"Indian Rule, Myanmarese rule",0,0,1,1,1,0,0,0,1,0
+542,Kashmir anti-India protests,India,2016,2019,Indian Government,0,0,1,1,0,1,1,0,0,0
+101,Indonesian Revolt,Indonesia,1945,1949,Dutch occupation,1,0,0,0,1,0,1,0,0,0
+137,Moluccans,Indonesia,1950,1950,Indonesian government,0,0,1,0,1,0,0,0,1,0
+65,Darul Islam,Indonesia,1953,1953,Indonesian government,0,0,1,0,1,0,0,1,0,0
+102,leftists,Indonesia,1956,1960,Sukarno regime,0,0,1,0,1,0,0,1,0,0
+87,GAM,Indonesia,1975,2005,Indonesian occupation,0,1,0,0,1,0,0,0,1,0
+29,anti-Suharto campaign,Indonesia,1997,1998,Suharto rule,1,0,0,0,0,1,0,1,0,0
+268,Student Protests (Anti-Habibie),Indonesia,1999,1999,Pres. BJ Habibie,1,0,0,0,0,1,0,1,0,0
+299,Constitutional Revolution,Iran,1905,1906,Mozaffar ad-Din Shah,1,0,0,0,0,1,0,1,0,0
+1014,Constitutionalists,Iran,1908,1909,shah regime,1,0,0,0,1,0,0,1,0,0
+378,KDPI (First Separatist Movement),Iran,1945,1946,Iranian rule,0,0,1,0,0,1,0,0,1,0
+104,Iranian Revolution,Iran,1977,1979,Shah Reza Pahlavi,1,0,0,0,0,1,0,1,0,0
+111,KDPI,Iran,1979,1996,Iranian regime,0,0,1,0,1,0,0,1,0,0
+103,Mujahideen,Iran,1981,2001,Khomenei regime,0,0,1,0,1,0,0,1,0,0
+486,Tir 18 Riot for democracy,Iran,1999,1999,President Mohammad Khatami,0,0,1,0,0,1,0,1,0,0
+385,PJAK,Iran,2005,2018,Government of Iran,0,0,1,1,1,0,0,0,1,0
+333,Green Revolution and Day of Rage,Iran,2009,2013,Government,0,1,0,0,0,1,0,1,0,0
+551,2017 Iran Anti-Government Protests,Iran,2017,2019,Iranian Government,0,0,1,1,0,1,0,1,0,0
+571,2019 Iranian protests,Iran,2019,2019,Khomenei regime,0,0,1,1,0,1,0,1,0,0
+1031,Iraqi rebels,Iraq,1920,1920,British occupation,0,1,0,0,1,0,1,0,0,0
+197,Shammar Tribe and pro-Western officers,Iraq,1959,1959,Qassim regime,0,0,1,0,1,0,0,1,0,0
+122,Kurdish rebellion,Iraq,1961,1970,Iraqi government,0,1,0,0,1,0,0,0,1,0
+121,Kurdish secession against Saddam,Iraq,1985,1991,secession,0,0,1,0,1,0,0,0,1,0
+388,SCIRI,Iraq,1989,1996,Government of Iraq,0,0,1,0,1,0,0,1,0,0
+473,Iraqis Protest Saddam Hussein Following Iraqi Withdrawal from Kuwait,Iraq,1991,1991,Iraqi Government,0,1,0,0,0,1,0,1,0,0
+200,Shiite rebellion,Iraq,1991,1991,Hussein regime,0,0,1,0,1,0,0,1,0,0
+110,Kurdish civil conflict,Iraq,1996,1996,Iraqi government,0,0,1,0,1,0,0,0,1,0
+105,Iraqi insurgency (Sunni/AQI/ISIL),Iraq,2004,2019,Iraqi government,0,0,1,1,1,0,0,1,0,0
+506,Sadar's Anti-US Occupation campaign,Iraq,2008,2009,US Government,0,0,1,0,0,1,1,0,0,0
+511,Day of Rage Protests,Iraq,2011,2011,Prime Minister Nouri al-Maliki and Several government ministeries,0,1,0,0,0,1,0,1,0,0
+514,Anti-Shiite Government Protests,Iraq,2012,2014,Prime Minister Maliki,0,1,0,0,0,1,0,1,0,0
+572,anti-Mahdi movement,Iraq,2019,2019,Mahdi govt,1,0,0,0,0,1,0,1,0,0
+71,Druze resistance,Israel,1981,1982,Israeli occupation of Golan,0,1,0,0,0,1,1,0,0,0
+1069,Italian resistance,Italy,1943,1945,Nazi occupation,0,0,1,0,1,0,1,0,0,0
+438,Trieste Strikes,Italy,1946,1946,Allied military government & Italian government,0,1,0,0,0,1,0,0,1,0
+292,Ivorian pro-democracy movement,Ivory Coast,1989,1990,Houphouet-Boigny regime,1,0,0,0,0,1,0,1,0,0
+491,anit-Guei Protests,Ivory Coast,2000,2000,Guei regime,1,0,0,0,0,1,0,1,0,0
+162,PMIC,Ivory Coast,2002,2005,incumbent regime,0,0,1,0,1,0,0,1,0,0
+293,Pro-Ouattara Campaign,Ivory Coast,2010,2011,Gbagbo Regime,1,0,0,0,0,1,0,1,0,0
+446,Anti-Kishi Campaign,Japan,1960,1960,Government of Japan,0,1,0,0,0,1,0,1,0,0
+165,Palestinian activists,Jordan,1970,1970,Jordanian rule,0,0,1,0,1,0,0,0,0,1
+320,Protest for Constitutional Reform,Jordan,2011,2013,Government (Prime Minister Samir Rifai),0,1,0,0,0,1,0,1,0,0
+1061,Kenyan independence movement,Kenya,1938,1938,British rule,0,0,1,0,1,0,1,0,0,0
+134,Mau Mau Rebellion,Kenya,1952,1956,British occupation,0,0,1,0,1,0,1,0,0,0
+142,NFDLM secessionists,Kenya,1964,1968,secession,0,0,1,0,1,0,0,0,1,0
+7,anti-Arap Moi,Kenya,1990,1991,Daniel Arap Moi,1,0,0,0,0,1,0,1,0,0
+428,Kenyan Al-Shabaab Insurgency,Kenya,2015,2019,Kenya,0,0,1,1,1,0,0,0,1,0
+533,Kosovo Anti-Governmant Protests,Kosovo,2015,2019,Kosovo Government,0,0,1,1,0,1,0,1,0,0
+123,Kyrgyzstan Democratic Movement,Kyrgyzstan,1990,1991,Communist regime,1,0,0,0,0,1,0,1,0,0
+231,Tulip Revolution,Kyrgyzstan,2005,2005,Akayev regime,1,0,0,0,0,1,0,1,0,0
+269,Second Revolution,Kyrgyzstan,2010,2010,Kyrgyz president Kurmanbek Bakiyev,1,0,0,0,0,1,0,1,0,0
+300,Anti-Interim Government,Kyrgyzstan,2010,2010,Interim government,0,0,1,0,0,1,0,1,0,0
+364,Laotian Independence,Laos,1946,1949,French occupation,1,0,0,0,1,0,1,0,0,0
+366,First Pathet Lao,Laos,1950,1957,Royal Loatian Government (RLG),0,0,1,0,1,0,0,1,0,0
+167,Second Pathet Lao,Laos,1959,1975,Laotian government,1,0,0,0,1,0,0,1,0,0
+380,"Meza Brali (Forest Brothers, Latvian anti-occupation campaign)",Latvia,1945,1950,Soviet occupation,0,0,1,0,1,0,1,0,0,0
+127,pro-dem movement,Latvia,1989,1991,Communist regime,1,0,0,0,0,1,0,1,0,0
+1044,Druze Revolt,Lebanon,1925,1927,French occupation,0,0,1,0,1,0,1,0,0,0
+440,White Revolution,Lebanon,1951,1952,Al-Khuri regime,1,0,0,0,0,1,0,1,0,0
+28,leftists (anti-Shamun),Lebanon,1958,1958,Shamun regime,0,0,1,0,1,0,0,1,0,0
+128,leftists,Lebanon,1975,1990,Lebanese government,0,0,1,0,1,0,0,1,0,0
+395,Hundred Day War,Lebanon,1978,1978,Syrian occupation,1,0,0,0,1,0,1,0,0,0
+90,Hizballah,Lebanon,1982,2000,Israeli occupation of Southern Lebanon,1,0,0,0,1,0,1,0,0,0
+53,Cedar Revolution,Lebanon,2005,2005,Syrian forces,1,0,0,0,0,1,1,0,0,0
+321,Lebanon Political Crisis,Lebanon,2006,2008,Government of Prime Minister Fouad Siniora,1,0,0,0,0,1,0,1,0,
+394,2006 Lebanon War,Lebanon,2006,2006,Israeli occupation in southern Lebanon,0,0,1,0,1,0,1,0,0,0
+573,October Revolution,Lebanon,2019,2019,Hariri govt,1,0,0,0,0,1,0,1,0,0
+482,Fair Election Campaign,Lesotho,1997,2002,Mokhehle regime,0,1,0,0,0,1,0,1,0,0
+14,anti-Doe rebels,Liberia,1989,1990,Doe regime,1,0,0,0,1,0,0,1,0,0
+143,NPFL & ULIMO,Liberia,1992,1995,Johnson regime,0,1,0,0,1,0,0,1,0,0
+147,national patriotic forces,Liberia,1996,1996,Liberian govt,0,0,1,0,1,0,0,1,0,0
+126,LURD,Liberia,1999,2003,Taylor regime,1,0,0,0,1,0,0,1,0,0
+1032,Italo-Libyan War (Sanusi),Libya,1920,1931,Italian occupation,0,0,1,0,1,0,1,0,0,0
+270,Libyan Civil War,Libya,2011,2011,Qaddafi regime,1,0,0,0,1,0,0,1,0,0
+301,Islamist militia factions (Second Libyan Civil War),Libya,2014,2019,General National Congress government,0,0,1,1,1,0,0,1,0,0
+381,"Mikso Broliai (Forest Brothers, Lithuanian Anti-Occupation Campaign)",Lithuania,1945,1956,Soviet occupation,0,0,1,0,1,0,1,0,0,0
+190,pro-democracy movement/Sajudis,Lithuania,1988,1991,Lithuanian regime,1,0,0,0,0,1,0,1,0,0
+395,NLA Insurgency,Macedonia,2001,2001,Government of Macedonia,0,0,1,0,1,0,0,0,1,0
+373,Colorful Revolution,Macedonia,2015,2017,Macedonian Government,1,0,0,0,0,1,0,1,0,0
+83,Franco-Madagascan,Madagascar,1947,1948,French occupation,0,0,1,0,1,0,1,0,0,0
+271,Anti-Tsiranana,Madagascar,1972,1972,Tsiranana regime,1,0,0,0,0,1,0,1,0,0
+1,Active Voices,Madagascar,1991,1993,Didier Radsiraka,1,0,0,0,0,1,0,1,0,0
+130,pro-democracy movement,Madagascar,2002,2002,Radsiraka regime,1,0,0,0,0,1,0,1,0,0
+508,anti-Rajoelina movement,Madagascar,2009,2014,Rajoelina government,0,1,0,0,0,1,0,1,0,0
+272,anti-Ravalomanana movement,Madagascar,2009,2009,Ravalomanana government,1,0,0,0,0,1,0,1,0,0
+157,Nyasaland African Congress,Malawi,1958,1959,British rule,0,1,0,0,0,1,1,0,0,0
+8,anti-Banda campaign,Malawi,1992,1994,Banda regime,1,0,0,0,0,1,0,1,0,0
+302,Anti-Mutharika,Malawi,2011,2012,President Mutharika Government,1,0,0,0,0,1,0,1,0,0
+131,Malayan Emergency,Malaysia,1948,1960,British occupation,0,1,0,0,1,0,1,0,0,0
+484,Reformasi,Malaysia,1998,1999,PM Mahathir Mohammed,0,0,1,0,0,1,0,1,0,0
+17,Anti-Gayoom Campaign,Maldives,2003,2008,Gayoom Regime,1,0,0,0,0,1,0,1,0,0
+515,Anti-Nasheed Campaign,Maldives,2012,2012,President Mohammed Nasheed,1,0,0,0,0,1,0,1,0,0
+303,Nasheed Supporters,Maldives,2012,2013,President Mohammed Waheed Hassan Government,0,0,1,0,0,1,0,1,0,0
+350,Anti-Yameen,Maldives,2015,2019,Gayoom Regime,1,0,0,0,0,1,0,1,0,0
+220,Tauregs,Mali,1989,1995,Mali regime,0,0,1,0,1,0,0,1,0,0
+132,Mali anti-military,Mali,1990,1991,Military rule,1,0,0,0,0,1,0,1,0,0
+328,Northern Mali conflict,Mali,2012,2015,Mailian government,0,1,0,0,1,0,0,0,1,0
+339,Anti-Aziz Protests,Mauritania,2011,2014,"Mohamed Ould Abdel Aziz Regime, Government run census",0,0,1,0,0,1,0,1,0,0
+1015,Liberals and Radicals rebellion,Mexico,1910,1920,Diaz regime,1,0,0,0,1,0,0,1,0,0
+1040,Huerta led rebels,Mexico,1923,1924,Obregon regime,0,0,1,0,1,0,0,1,0,0
+1046,Cristeros rebellion,Mexico,1926,1929,Mexican regime,0,0,1,0,1,0,0,1,0,0
+1047,Escoban-led rebellion,Mexico,1929,1929,Calles government,0,0,1,0,1,0,0,1,0,0
+25,anti-PRI campaign,Mexico,1987,2000,corrupt govt,1,0,0,0,0,1,0,1,0,0
+10,anti-Calderon campaign,Mexico,2006,2006,Calderon regime,0,0,1,0,0,1,0,1,0,0
+525,2014 Mexican anti-Corruption Campaign,Mexico,2014,2015,Pena Nieto government,0,0,1,0,0,1,0,1,0,0
+69,Dniestr,Moldova,1992,1992,Moldovan regime,0,1,0,0,1,0,0,0,1,0
+509,"Moldovan ""Grapevine"" Revolution",Moldova,2009,2009,Communist Government,1,0,0,0,0,1,0,1,0,0
+534,Moldovan Anti-Government Protest,Moldova,2015,2016,Moldovan Government,0,1,0,0,0,1,0,1,0,0
+138,Mongolian anti-communist,Mongolia,1989,1990,Communist regime,1,0,0,0,0,1,0,1,0,0
+535,Montenegrin Opposition Protest,Montenegro,2015,2015,Montenegrin Government,0,0,1,0,0,1,0,1,0,0
+574,97000 Resist campaign,Montenegro,2019,2019,Đukanović govt,0,0,1,0,0,1,0,1,0,0
+1012,Fez Caids Rebellion,Morocco,1907,1908,French occupation,0,0,1,0,1,0,1,0,0,0
+1017,Wars of Independence,Morocco,1911,1917,French occupation,0,0,1,0,1,0,1,0,0,0
+1037,Rifian Rebellion,Morocco,1921,1926,Franco-Spanish occupation,0,0,1,0,1,0,1,0,0,0
+140,Moroccan Independence War,Morocco,1953,1956,French/Spanish occupation,1,0,0,0,1,0,1,0,0,0
+98,Ifni war,Morocco,1957,1958,Spanish occupation,0,0,1,0,1,0,1,0,0,0
+340,Western Sahara Independence Movement,Morocco,1999,2005,Moroccan Government,0,0,1,0,0,1,1,0,0,0
+86,Front for the Liberation of Mozambique,Mozambique,1962,1975,Portuguese occupation,1,0,0,0,1,0,1,0,0,0
+181,Renamo,Mozambique,1979,1992,Mozambique government,0,0,1,0,1,0,0,1,0,0
+349,Naga Insurgency,Myanmar,1956,2019,Burmese and Indian rule,0,0,1,0,1,0,0,0,1,0
+273,Saffron Revolution,Myanmar,2007,2007,Government,0,0,1,0,0,1,0,1,0,0
+536,Western Southeast Asia Front,Myanmar,2015,2019,"Indian Rule, Myanmarese rule",0,0,1,1,1,0,0,0,1,0
+188,SWAPO,Namibia,1976,1988,South African occupation,1,0,0,0,1,0,1,0,0,0
+1007,South West African Revolt (Herero Revolt),Namibia/South West Africa,1904,1906,German occupation,0,0,1,0,1,0,1,0,0,0
+1011,Zulu Rebellion (Natal Rebellion),Natal,1906,1906,British occupation,0,0,1,0,1,0,1,0,0,0
+224,The Stir,Nepal,1990,1990,Monarchy/Panchayat regime,1,0,0,0,0,1,0,1,0,0
+492,CPN-M/UPF,Nepal,2001,2006,Nepalese government,0,1,0,0,1,0,0,1,0,0
+149,Nepalese anti-government,Nepal,2002,2006,Nepalese govt; martial law,1,0,0,0,0,1,0,1,0,0
+502,Mahadeshi Autonomy Campaign,Nepal,2007,2007,Government,0,1,0,0,0,1,0,0,1,0
+274,Maoist Anti-Govt Protests,Nepal,2010,2010,Madhav Kumar Nepal Govt,1,0,0,0,0,1,0,1,0,0
+516,Anti-Maoist Campaign,Nepal,2012,2012,Maoist Government,1,0,0,0,0,1,0,1,0,0
+1045,Nicaraguan Guerillas,Nicaragua,1925,1933,US backed Conservative gov't/ US intervening troops,1,0,0,0,1,0,0,1,0,0
+275,Independent Liberal Party,Nicaragua,1944,1944,President Somoza,0,0,1,0,0,1,0,1,0,0
+80,FSLN,Nicaragua,1978,1979,Nicaraguan regime,1,0,0,0,1,0,0,1,0,0
+276,Anti-Somoza Strike,Nicaragua,1978,1978,Somoza regime,0,0,1,0,0,1,0,1,0,0
+57,Contras,Nicaragua,1981,1990,Sandinista regime,1,0,0,0,1,0,0,1,0,0
+561,Anti-Ortega Protests,Nicaragua,2018,2019,Gov't of Nicaragua (Ortega),0,0,1,1,0,1,0,1,0,0
+151,Niger anti-military,Niger,1990,1992,Military rule,1,0,0,0,0,1,0,1,0,0
+153,Independence Movement,Nigeria,1945,1950,British occupation,0,1,0,0,0,1,1,0,0,0
+42,Biafrans,Nigeria,1967,1970,Nigerian govt,0,0,1,0,1,0,0,0,1,0
+154,Muslim fundamentalists,Nigeria,1980,1984,Nigerian govt,0,0,1,0,1,0,0,1,0,0
+158,Ogoni movement,Nigeria,1990,1995,Nigerian govt and corporate exploitation,0,0,1,0,0,1,0,0,1,0
+152,Nigeria anti-military,Nigeria,1993,1999,Military rule,1,0,0,0,0,1,0,1,0,0
+334,Boko Haram,Nigeria,2011,2019,Nigerian govt,0,0,1,1,1,0,0,1,0,0
+97,IRA/Irish nationalists,Northern Ireland,1968,1998,British control,0,1,0,0,1,0,0,0,1,0
+1064,Norwegian resistance,Norway,1940,1945,Nazi occupation,0,1,0,0,0,1,1,0,0,0
+175,Popular Front for the Liberation of Oman and the Arab Gulf (PFLOAG),Oman,1962,1976,Oman government,0,1,0,0,1,0,0,1,0,0
+1006,VMRO Rebels (Macedonians) in Ilinden uprising,Ottoman Empire,1903,1903,Ottoman rule,0,0,1,0,1,0,0,0,1,0
+373,Second Balochistan Separatist Movement,Pakistan,1962,1969,Government of Pakistan,0,0,1,0,1,0,0,0,1,0
+21,anti-Khan campaign,Pakistan,1968,1969,Khan regime,0,1,0,0,0,1,0,1,0,0
+40,Bengalis,Pakistan,1971,1971,Pakistani rule,1,0,0,0,1,0,0,0,1,0
+36,Third Balochistan Separatist Movement,Pakistan,1973,1977,Government of Pakistan,0,0,1,0,1,0,0,0,1,0
+277,Anti-Bhutto,Pakistan,1977,1977,Prime Minister Zulfiqar Ali Bhutto,1,0,0,0,0,1,0,1,0,0
+163,pro-dem movement,Pakistan,1983,1983,Zia al-Huq,0,0,1,0,0,1,0,1,0,0
+278,Anti-Zia al-Haq,Pakistan,1986,1986,President Zia al-Haq,0,0,1,0,0,1,0,1,0,0
+136,Mohajir,Pakistan,1994,1999,Pakistani government,0,0,1,0,1,0,0,1,0,0
+375,Fourth Balochistan Separatist Movement,Pakistan,2004,2019,Government of Pakistan,0,0,1,1,1,0,0,0,1,0
+304,Anti-Musharraf Campaign (Lawyer's Movement),Pakistan,2007,2008,Musharraf Government,1,0,0,0,0,1,0,1,0,0
+342,Islamist insurgency,Pakistan,2007,2019,Pakistani government,0,0,1,1,1,0,0,1,0,0
+510,Anti-Zardari Campaign,Pakistan,2009,2009,Zardari Government,0,0,1,0,0,1,0,1,0,0
+526,2014 Anti-Sharif Campaign,Pakistan,2014,2014,Sharif Government,0,0,1,0,0,1,0,1,0,0
+345,Anti-British Mandate,Palestine,1920,1936,British colonial rule,0,0,1,0,0,1,1,0,0,0
+1058,Palestinian Arab Revolt,Palestine,1936,1939,Pro-Jewish British policies,0,1,0,0,1,0,0,0,1,0
+164,First Intifada,Palestine,1987,1990,Israeli occupation,0,1,0,0,0,1,1,0,0,0
+109,Jewish resistance,Palestinian Territories,1945,1948,British occupation,1,0,0,0,1,0,1,0,0,0
+164,Palestinian Liberation,Palestinian Territories,1973,2019,Israeli occupation,0,0,1,1,1,0,0,0,1,0
+24,anti-Noriega campaign,Panama,1987,1989,Noriega regime,0,0,1,0,0,1,0,1,0,0
+45,Bougainville Revolt,Papua New Guinea,1988,1998,Papuan regime,0,0,1,0,1,0,0,1,0,0
+543,Anti-prime minister protest,Papua New Guinea,2016,2016,Prime Minister Peter O'Neill,0,0,1,0,0,1,0,1,0,0
+166,leftist rebellion,Paraguay,1947,1947,Morinigo regime,0,0,1,0,1,0,0,1,0,0
+487,Anti-Cubas Protests,Paraguay,1999,1999,Gov't of Paraguay,1,0,0,0,0,1,0,1,0,0
+1054,Aprista rebels,Peru,1932,1932,Cerro regime,0,0,1,0,1,0,0,1,0,0
+195,Senderista Insurgency (Sendero Luminoso) The Shinning Path,Peru,1980,2012,Peruvian government,0,0,1,0,1,0,0,1,0,0
+16,anti-Fujimori campaign,Peru,2000,2000,Fujimori govt,1,0,0,0,0,1,0,1,0,0
+1001,Filipino nationalists,Philippines,1899,1902,U.S. occupation,0,0,1,0,1,0,1,0,0,0
+1065,Philippines Malayan insurgency,Philippines,1941,1945,Japanese occupation,0,0,1,0,1,0,1,0,0,0
+91,Hukbalahap Rebellion,Philippines,1946,1954,Filipino government,0,0,1,0,1,0,0,1,0,0
+139,Moro National Liberation Front,Philippines,1968,1987,Filipino government,0,0,1,0,1,0,0,1,0,0
+150,New People's Army,Philippines,1972,1992,Filipino government,0,0,1,0,1,0,0,1,0,0
+168,People Power,Philippines,1983,1986,Ferdinand Marcos,1,0,0,0,0,1,0,1,0,0
+194,Second People Power Movement,Philippines,2001,2001,Estrada regime,1,0,0,0,0,1,0,1,0,0
+279,People Power III,Philippines,2001,2001,Government of the Philippines,0,0,1,0,0,1,0,1,0,0
+1072,Polish resistance,Poland,1944,1944,German occupation,0,0,1,0,1,0,1,0,0,0
+177,Poznan protests,Poland,1956,1956,Communist regime,0,1,0,0,0,1,0,1,0,0
+171,Poland Anti-Communist I,Poland,1968,1968,Communist regime,0,0,1,0,0,1,0,1,0,0
+172,Poland Anti-Communist II,Poland,1970,1970,Communist regime,0,1,0,0,0,1,0,1,0,0
+173,Warsaw Worker's Uprising,Poland,1976,1976,Communist regime,0,1,0,0,0,1,0,1,0,0
+206,Solidarity,Poland,1980,1989,Communist regime,1,0,0,0,0,1,0,1,0,0
+544,Anti-right wing government,Poland,2016,2019,Law and Justice Party,0,0,1,1,0,1,0,1,0,0
+52,Carnation Revolution,Portugal,1973,1974,Military rule,1,0,0,0,0,1,0,1,0,0
+396,"Anti-Lissouba Campaign (Cocoyes, Ninjas, Cobras)",Republic of the Congo,1993,1997,Government of Congo,1,0,0,0,1,0,0,1,0,0
+412,Democratic Republic of Yemen Secessionist Movement,Republic of Yemen,1994,1994,Republic of Yemen,0,0,1,0,1,0,0,0,1,0
+1013,Peasant Rebellion,Romania,1907,1907,land dist system,0,0,1,0,1,0,0,0,0,1
+253,anti-Ceaucescu movement,Romania,1987,1989,Ceasescu regime,0,0,1,0,0,1,0,1,0,0
+11,anti-Ceaucescu rebels,Romania,1989,1989,Ceacescu regime,1,0,0,0,1,0,0,1,0,0
+471,1990 Anti-Government Protests,Romania,1990,1992,Gov't of Romania,0,1,0,0,0,1,0,1,0,0
+472,The Golaniad,Romania,1990,1993,Provisional Gov't/Gov't of Romania,0,0,1,0,0,1,0,1,0,0
+517,2012 Anti-Government Protests,Romania,2012,2012,Gov't of Romania,1,0,0,0,0,1,0,1,0,0
+537,Colectiv Revolution,Romania,2015,2015,Romanian Government,1,0,0,0,0,1,0,1,0,0
+552,Romania anti-government protest,Romania,2017,2019,Government of Romania,0,0,1,1,0,1,0,1,0,1
+1009,Peasant/Worker Rebellion,Russia,1905,1906,Romanov dynasty,0,1,0,0,1,0,0,1,0,0
+1021,Urkun Uprising,Russia,1916,1917,Romanov regime,1,0,0,0,1,0,0,1,0,0
+1023,Russian Revolution,Russia,1917,1917,Romanov regime,1,0,0,0,1,0,0,1,0,0
+1024,anti-Bolsheviks,Russia,1917,1921,Bolshevik regime,0,0,1,0,1,0,0,1,0,0
+185,pro-dem movement,Russia,1990,1991,Anti-coup,1,0,0,0,0,1,0,0,0,1
+399,Anti-Yeltsin,Russia,1993,1993,Gov't of Russia (Yeltsin),0,0,1,0,1,0,0,1,0,0
+55,Chechen separatists,Russia,1994,2009,Russian occupation,0,0,1,0,1,0,0,0,1,0
+503,Dissenter's March,Russia,2007,2008,United Russia,0,0,1,0,0,1,0,1,0,0
+343,Caucasus Emirate,Russia,2007,2019,Russian goverment,0,0,1,1,1,0,0,0,1,0
+335,Snow Revolution,Russia,2010,2019,Putin,0,0,1,1,0,1,0,1,0,0
+186,Rwandan independence,Rwanda,1956,1962,Belgain occupation,1,0,0,0,1,0,1,0,0,0
+241,Watusi,Rwanda,1963,1964,Hutu regime,0,0,1,0,1,0,0,1,0,0
+235,Tutsi rebels,Rwanda,1990,1993,Hutu regime,1,0,0,0,1,0,0,1,0,0
+168,Patriotic Front,Rwanda,1994,1994,Hutu regime and genocide,1,0,0,0,1,0,0,1,0,0
+403,Hutu Nationalist Insurgency,Rwanda,1996,2001,Gov't of Rwanda,0,0,1,0,1,0,0,1,0,0
+1048,Ikhwan rebellion,Saudi Arabia,1929,1930,Ibn Saud regime,0,0,1,0,1,0,0,1,0,0
+305,MFDC secessionist campaign,Senegal,1982,1983,Gov't of Senegal,0,0,1,0,0,1,0,0,1,0
+386,Casamance Conflict,Senegal,1982,2014,Gov't of Senegal,0,0,1,0,1,0,0,0,1,0
+13,anti-Diouf campaign,Senegal,2000,2000,Diouf govt,1,0,0,0,0,1,0,1,0,0
+518,Anti-Wade June 23 Movement,Senegal,2012,2012,Wade regime,1,0,0,0,0,1,0,1,0,0
+23,anti-Milosevic,Serbia,1996,2000,Milosevic regime,1,0,0,0,0,1,0,1,0,0
+119,KLA,Serbia,1998,1999,secession,0,1,0,0,1,0,0,0,1,0
+553,Anti-Vucic,Serbia,2017,2019,Gov't of Serbia (Vucic),0,0,1,1,0,1,0,1,0,0
+180,RUF,Sierra Leone,1991,1996,Republican government,0,1,0,0,1,0,0,1,0,0
+179,Public Against Violence,Slovakia,1989,1992,Czech communist government,1,0,0,0,0,1,0,1,0,0
+204,Slovenia anti-communist,Slovenia,1989,1990,Communist regime,1,0,0,0,0,1,0,1,0,0
+205,Slovenian independence,Slovenia,1990,1991,Yugoslavian rule,1,0,0,0,0,1,0,0,1,0
+1002,Dervish resistance,Somalia,1899,1904,British and Ethiopian occupation,0,0,1,0,1,0,1,0,0,0
+208,clan factions; SNM,Somalia,1982,1991,Siad Barre regime,1,0,0,0,1,0,0,1,0,0
+357,Somali Civil War,Somalia,1991,2000,Government of Somalia,0,0,1,0,1,0,0,1,0,0
+209,Somalia militia insurgencies,Somalia,1993,1994,U.S. and UN relief missions,1,0,0,0,1,0,1,0,0,0
+344,Islamist insurgency,Somalia,2006,2019,Somali government,0,0,1,1,1,0,0,1,0,0
+1003,Boer separatists,South Africa,1899,1902,British occupation,0,0,1,0,1,0,1,0,0,0
+210,First Defiance Campaign,South Africa,1952,1961,Apartheid,0,0,1,0,0,1,0,0,0,1
+211,South African Second Defiance Campaign,South Africa,1984,1994,Apartheid,1,0,0,0,0,1,0,0,0,1
+554,Anti-Zuma,South Africa,2017,2018,Gov't of South Africa (Zuma),1,0,0,0,0,1,0,1,0,0
+214,Student Revolution,South Korea,1960,1960,Rhee regime,1,0,0,0,0,1,0,1,0,0
+212,South Korean anti-junta,South Korea,1979,1980,military junta,0,0,1,0,0,1,0,1,0,0
+463,Student’s Anti-Chun Protest,South Korea,1982,1987,Gov't of Chun Doo Hwan,0,0,1,0,0,1,0,1,0,0
+213,South Korean anti-military,South Korea,1986,1987,Mil govt,1,0,0,0,0,1,0,1,0,0
+336,Anti-Roh Tae Woo,South Korea,1988,1992,President Roh Tae-Woo,0,0,1,0,0,1,0,1,0,0
+480,Student's Anti-Kim Protest,South Korea,1995,1995,Gov't of Kim Young Sam,0,0,1,0,0,1,0,1,0,0
+538,Anti-Park protests,South Korea,2015,2017,President Park Geun-Hye and Government of South Korea,1,0,0,0,0,1,0,1,0,0
+322,SPLM/A,South Sudan,2011,2019,South Sudan government,0,0,1,1,1,0,0,1,0,0
+452,1963 Buddhist Protests,South Vietnam,1963,1963,The Government of South Vietnam,1,0,0,0,0,1,0,1,0,0
+280,1964 Anti-Khanh Protests,South Vietnam,1964,1964,The Military Government of South Vietnam,1,0,0,0,0,1,0,1,0,0
+280,Anti-Huong,South Vietnam,1964,1965,"Government of South Vietnam, PM Tran Van Huong",1,0,0,0,0,1,0,1,0,0
+458,1966-67 Anti-Ky Protests,South Vietnam,1966,1967,The Military Government of South Vietnam,0,0,1,0,0,1,0,1,0,0
+280,Anti-Military Govt,South Vietnam,1966,1966,Military Government of South Vietnam,0,0,1,0,0,1,0,1,0,0
+461,1974-75 Anti-Thieu Protests,South Vietnam,1974,1975,,0,0,1,0,0,1,0,1,0,0
+1056,Asturian miners,Spain,1934,1934,right-wing government,0,0,1,0,1,0,0,1,0,0
+1059,Fascists,Spain,1936,1939,Republican government,1,0,0,0,1,0,0,1,0,0
+73,ETA,Spain,1968,2011,Spanish occupation,0,0,1,0,1,0,0,0,1,0
+545,Catalan separatist protest,Spain,2016,2019,Spanish Government,0,0,1,1,0,1,0,0,1,0
+108,JVP,Sri Lanka,1971,1971,Sri Lankan government,0,0,1,0,1,0,0,1,0,0
+125,LTTE,Sri Lanka,1983,2009,Sri Lankan occupation,0,0,1,0,1,0,0,0,1,0
+393,JVP II,Sri Lanka,1987,1990,Gov't of Sri Lanka,0,0,1,0,1,0,0,1,0,0
+493,Anti-Kumaratunga,Sri Lanka,2001,2001,President Kumaratunga,0,0,1,0,0,1,0,1,0,0
+31,Anya Nya,Sudan,1963,1972,Sudanese government,0,1,0,0,1,0,0,0,1,0
+454,October Revolution,Sudan,1964,1964,Abboud regime,1,0,0,0,0,1,0,1,0,0
+187,SPLA-Garang faction,Sudan,1983,2005,Sudanese government,0,1,0,0,1,0,0,1,0,0
+18,anti-Jaafar,Sudan,1985,1985,Jaafar Nimiery,1,0,0,0,0,1,0,1,0,0
+107,JEM/SLA,Sudan,2003,2012,Janjaweed militia,0,0,1,0,1,0,0,0,0,1
+323,Anti-al-Bashir Government,Sudan,2011,2013,Omar al-Bashir's Regime,0,0,1,0,0,1,0,1,0,0
+402,South Kordofan and Blue Nile Conflict,Sudan,2011,2018,Government of Sudan (Bashir Regime),0,0,1,1,1,0,0,1,0,0
+562,Sudan Uprising,Sudan,2018,2019,Omar al-Bashir's Regime,1,0,0,0,0,1,0,1,0,0
+307,Anti-Bouterse,Suriname,1983,1984,"Military dictatorship of Desiré Delano ""Dési"" Bouterse",0,0,1,0,0,1,0,1,0,0
+488,Anti-Wijdenbosch,Suriname,1999,2000,Gov't of Suriname (Wijdenbosch),1,0,0,0,0,1,0,1,0,0
+281,Swaziland Anti-Monarchy Protests,Swaziland,2011,2011,Mswati Monarchy,0,0,1,0,0,1,0,1,0,0
+1033,Franco-Syrian War,Syria,1920,1920,French occupation,0,0,1,0,1,0,1,0,0,0
+141,Muslim Brotherhood,Syria,1980,1982,Syrian regime,0,0,1,0,1,0,0,1,0,0
+282,Syrian Civil War,Syria,2011,2019,Assad regime,0,0,1,1,1,0,0,1,0,0
+282,Syrian Uprising,Syria,2011,2011,Assad regime,0,0,1,0,0,1,0,1,0,0
+356,Islamic State,Syria,2013,2019,Syrian government,0,0,1,1,1,0,0,1,0,0
+215,Taiwan pro-democracy,Taiwan,1979,1985,autocratic regime,1,0,0,0,0,1,0,1,0,0
+474,1991 Opposition Protests,Tajikistan,1991,1991,Tajikistan government,0,1,0,0,0,1,0,1,0,0
+174,Popular Democratic Army (UTO),Tajikistan,1992,1997,Rakhmanov regime,0,1,0,0,1,0,0,1,0,0
+219,Tanzania pro-democracy,Tanzania,1992,1995,Mwinyi regime,0,1,0,0,0,1,0,1,0,0
+1010,Maji Maji Revolt,Tanzania/German East Africa,1905,1906,German colonizers,0,0,1,0,1,0,1,0,0,0
+221,communist rebels,Thailand,1965,1982,Thai government,0,0,1,0,1,0,0,1,0,0
+223,student protests,Thailand,1973,1973,military dictatorship,1,0,0,0,0,1,0,1,0,0
+222,pro-dem movement,Thailand,1992,1992,Suchinda regime,1,0,0,0,0,1,0,1,0,0
+354,2004 Southern Thai Insurrection,Thailand,2004,2019,Thai Government,0,0,1,1,1,0,1,0,0,0
+30,anti-Thaksin campaign,Thailand,2005,2006,Thaksin regime,1,0,0,0,0,1,0,1,0,0
+283,Anti-Military Government Campaign,Thailand,2007,2007,Military-installed government,0,1,0,0,0,1,0,1,0,0
+284,People's Alliance for Democracy Campaign,Thailand,2008,2008,People Power Party Government,1,0,0,0,0,1,0,1,0,0
+324,Red Shirt Campaign,Thailand,2008,2010,Abhisit Vejjajiva Government,0,0,1,0,0,1,0,1,0,0
+308,Civil Movement for Democracy,Thailand,2013,2014,Yingluck government,1,0,0,0,0,1,0,1,0,0
+429,New Democracy Movement,Thailand,2014,2019,Thai Military Regime,0,0,1,1,0,1,0,1,0,0
+1018,First War of Independence,Tibet,1912,1913,Chinese occupation,0,1,0,0,1,0,1,0,0,0
+227,Tibetan independence movement,Tibet,1987,1989,Chinese occupation,0,0,1,0,0,1,1,0,0,0
+285,Anti-Eyadema,Togo,1991,1991,Gen. Eyadame,0,1,0,0,0,1,0,1,0,0
+286,Togo anti-Gnassingbe/Coup Crisis,Togo,2005,2005,President Faure Gnassingbe Regime,1,0,0,0,0,1,0,1,0,0
+309,Let's Save Togo (Anti-Gnassingbe),Togo,2012,2013,President Faure Gnassingbe Regime,0,0,1,0,0,1,0,1,0,0
+555,2017 Anti-Gnassingbe,Togo,2017,2019,Gov't of Togo (Faure Gnassingbe),0,0,1,1,0,1,0,1,0,0
+310,Pro-Democracy Protests,Tonga,2005,2006,Government,0,1,0,0,0,1,0,1,0,0
+232,Tunisian independence movement,Tunisia,1952,1954,French occupation,1,0,0,0,1,0,1,0,0,0
+311,Anti-Ben Ali Campaign (Jasmin Revolution),Tunisia,2010,2011,Government (Ben Ali Regime),1,0,0,0,0,1,0,1,0,0
+312,Protests Against the Crisis Talks,Tunisia,2013,2013,Council negotiating end to political crisis,1,0,0,0,0,1,0,1,0,0
+312,Anti-Islamist Government Protests,Tunisia,2013,2014,Ennahda Party,1,0,0,0,0,1,0,1,0,0
+1022,Arab Revolt,Turkey,1916,1918,Ottoman rule,0,1,0,0,1,0,0,0,1,0
+1034,Kockiri rebellion Kurdistan (KTC),Turkey,1920,1922,Kurdish secession,0,0,1,0,1,0,0,0,1,0
+1043,Sheikh Said insurgency,Turkey,1924,1927,Kemal regime,0,0,1,0,1,0,0,1,0,0
+447,Students Lead Protest for Regime Change,Turkey,1960,1960,Government,1,0,0,0,0,1,0,1,0,0
+459,Anti-government protests,Turkey,1970,1971,incumbent govt,1,0,0,0,0,1,0,1,0,0
+251,Kurdish rebellion,Turkey,1978,1999,Turkish government,0,0,1,0,1,0,0,0,1,0
+494,Economic Crisis Sparks Calls for Resignation,Turkey,2001,2001,Government,0,0,1,0,0,1,0,1,0,0
+520,Anti-Erdogan,Turkey,2013,2015,Erdogan government,0,1,0,0,0,1,0,1,0,0
+539,Renewed Kurdistan Worker's Party (PKK),Turkey,2015,2019,Turkish government,0,0,1,1,1,0,0,0,1,0
+556,Anti-Erdogan II,Turkey,2017,2019,President Erdogan,0,0,1,1,0,1,0,1,0,0
+46,Buganda Tribe,Uganda,1966,1966,Uganda government,0,0,1,0,1,0,0,0,1,0
+145,National Resistance Army,Uganda,1980,1986,Okello regime,1,0,0,0,1,0,0,1,0,0
+124,LRA,Uganda,1986,2017,Museveni government,0,0,1,0,1,0,0,1,0,0
+398,UPA,Uganda,1987,1992,Ugandan govt,0,0,1,0,1,0,0,1,0,0
+427,ADF Insurgency,Uganda,1996,2019,Ugandan govt,0,0,1,1,1,0,0,1,0,0
+512,Anti-Museveni,Uganda,2011,2013,President Museveni Govt,0,0,1,0,0,1,0,1,0,0
+468,Donetsk Miner's Strike,Ukraine,1989,1991,Government in Moscow,0,1,0,0,0,1,0,1,0,0
+287,Students Union Protests,Ukraine,1990,1990,Masol Regime,1,0,0,0,0,1,0,1,0,0
+159,Orange Revolution,Ukraine,2000,2005,Kuchma regime,0,1,0,0,0,1,0,1,0,0
+314,Euromaidan,Ukraine,2013,2014,President Yanukovych,1,0,0,0,0,1,0,1,0,0
+527,"Ultras ""United Ukraine"" Campaign",Ukraine,2014,2014,Russian occupation/pro-Russian rebels,0,0,1,0,0,1,1,0,0,0
+315,Rebels in East Ukraine (Ukrainian Civil War),Ukraine,2014,2019,Ukraine government,0,0,1,1,1,0,0,0,1,0
+557,anti-Trump resistance,United States,2017,2019,Trump administration,0,0,1,1,0,1,0,1,0,0
+1008,Blancos Rebellion,Uruguay,1904,1904,Ordonez regime,0,0,1,0,1,0,0,1,0,0
+234,Tupamaros,Uruguay,1963,1972,Uruguay government,0,0,1,0,1,0,0,1,0,0
+239,Uruguay anti-military campaign,Uruguay,1984,1985,Military rule,1,0,0,0,0,1,0,1,0,0
+1035,Peasants in Ta (Tambov Rebellion),USSR,1920,1921,Soviet regime,0,0,1,0,1,0,0,0,1,0
+1057,Central Asian rebels,USSR,1934,1934,Soviet policies of conscription,0,0,1,0,1,0,0,0,0,1
+1066,Belarus resistance,USSR,1941,1945,Nazi occupation,0,0,1,0,1,0,1,0,0,0
+238,Ukrainian rebellion,USSR,1946,1951,Communist regime,0,0,1,0,1,0,0,1,0,0
+442,Georgian anti-Khruschev protests,USSR,1956,1956,Khruschev regime,0,0,1,0,0,1,0,1,0,0
+469,Georgian anti-Soviet movement,USSR,1989,1991,Soviet rule,0,1,0,0,0,1,0,0,1,0
+1004,La Revolucion Libertador,Venezuela,1901,1903,Venezuela government,0,0,1,0,1,0,0,1,0,0
+19,anti-Jimenez campaign,Venezuela,1958,1958,Jimenez dictatorship,1,0,0,0,0,1,0,1,0,0
+34,Armed Forces for National Liberation (FALN),Venezuela,1962,1965,Betancourt regime,0,0,1,0,1,0,0,1,0,0
+476,Anti-Perez,Venezuela,1992,1992,Government,0,0,1,0,0,1,0,1,0,0
+387,Military Forces of Hugo Chavez,Venezuela,1992,1992,Government of Venezuela,0,0,1,0,1,0,0,1,0,0
+495,2002 Anti-Chavez Campaign,Venezuela,2002,2004,Government,0,0,1,0,0,1,0,1,0,0
+252,anti-coup,Venezuela,2002,2002,anti-Chavez coup,1,0,0,0,0,1,0,1,0,0
+528,anti-Maduro,Venezuela,2014,2019,Maduro government,0,0,1,1,0,1,0,1,0,0
+100,Indochina revolt,Vietnam,1945,1954,French occupation,1,0,0,0,1,0,1,0,0,0
+156,North Vietnam (National Liberation Front),Vietnam,1960,1975,government of South Vietnam,1,0,0,0,1,0,0,1,0,0
+449,North Vietnam (National Liberation Front) anti-occupation,Vietnam,1961,1975,U.S. occupation,1,0,0,0,1,0,1,0,0,0
+1074,Anti-Dutch colonial struggle,West Papua,1911,1943,Dutch colonial rule/Japanese occupation,0,0,1,0,0,1,1,0,0,0
+242,West Papua rebels,West Papua,1965,1978,Indonesian occupation,0,0,1,0,1,0,1,0,0,0
+242,West Papua self-determination struggle,West Papua,1979,2019,Indonesian occupation,0,0,1,1,0,1,1,0,0,0
+243,Western Sahara Freedom Movement (POLISARIO),Western Sahara,1975,1989,Moroccan occupation,0,1,0,0,1,0,1,0,0,0
+340,Renewed Western Sahara Independence Protests,Western Sahara,2010,2019,Moroccan Government,0,0,1,1,0,1,1,0,0,0
+246,Yemeni insurgency,Yemen,1955,1957,British and Aden administration,0,0,1,0,1,0,0,1,0,0
+79,"FLOSY, NLF in Aden",Yemen,1963,1967,UK occupation,1,0,0,0,1,0,1,0,0,0
+389,NDF,Yemen,1979,1982,Government of Yemen,0,0,1,0,1,0,0,1,0,0
+258,Al-Houthi Rebellion,Yemen,2004,2015,Yemen government,1,0,0,0,1,0,0,1,0,0
+256,South Yemen Secessionist Movement,Yemen,2007,2014,Government,0,1,0,0,0,1,0,0,1,0
+341,Al Qaeda in the Arabian Peninsula,Yemen,2009,2019,Yemen government,0,0,1,1,1,0,0,1,0,0
+316,Anti Ali Adduallah Saleh Campaign,Yemen,2011,2012,Government (Saleh Regime),1,0,0,0,0,1,0,1,0,0
+540,Anti-Houthi Movement,Yemen,2015,2019,Al-Houthi Rebel government,0,0,1,1,0,1,0,1,0,0
+244,Yahya Family revolt,Yemen Arab Republic,1948,1948,countercoup,1,0,0,0,1,0,0,1,0,0
+184,Royalists,Yemen Arab Republic,1962,1969,al-Sallal regime,0,1,0,0,1,0,0,1,0,0
+245,leftists,Yemen People's Republic,1986,1986,Ali Nasir regime,0,1,0,0,1,0,0,1,0,0
+1067,Balkan resistance,Yugoslavia,1941,1945,German occupation,0,0,0,0,1,0,1,0,0,0
+247,student protests,Yugoslavia,1968,1968,Communist regime,0,1,0,0,0,1,0,1,0,0
+60,Croatian nationalists,Yugoslavia,1970,1971,Yugoslav government,0,0,1,0,0,1,0,0,1,0
+120,Kosovo Albanian nationalist movement,Yugoslavia,1981,1981,Yugoslav government,0,0,1,0,0,1,0,0,1,0
+119,Kosovo Albanian,Yugoslavia,1988,1998,Serbian rule,0,0,1,0,0,1,0,0,1,0
+61,Croats,Yugoslavia,1991,1992,Serb government,1,0,0,0,1,0,0,0,1,0
+116,Katanga-led leftists,Zaire/DRC,1960,1965,secession from DRC,0,0,1,0,1,0,0,0,1,0
+78,FLNC,Zaire/DRC,1977,1978,DRC/Zaire regime,0,0,1,0,1,0,0,1,0,0
+189,Sacred Union,Zaire/DRC,1991,1993,Mobutu regime,0,0,1,0,1,0,0,1,0,0
+249,Zambian independence movement,Zambia,1961,1963,British rule,1,0,0,0,0,1,1,0,0,0
+248,Zambia anti-single party rule,Zambia,1990,1991,One-party rule,1,0,0,0,0,1,0,1,0,0
+12,anti-Chiluba campaign,Zambia,2001,2001,Chiluba regime,1,0,0,0,0,1,0,1,0,0
+250,Zimbabwe African People's Union,Zimbabwe,1972,1979,Smith/Muzorena regime,0,1,0,0,1,0,0,1,0,0
+161,PF-ZAPU guerillas,Zimbabwe,1983,1987,Mugabe regime,0,1,0,0,1,0,0,1,0,0
+546,Anti-Mugabe,Zimbabwe,2016,2017,Gov't of Zimbabwe (Mugabe),1,0,0,0,0,1,0,1,0,0
